@@ -28,11 +28,8 @@ This is a Todo List application built using React.js. It allows users to create,
  - Enhance UI with more styling options.
 
 ## Setup and Run
-url: https://github.com/Vipinm8924/ToDoListApp
-
-1. Clone the repository:
-   git clone https://github.com/Vipinm8924/ToDoListApp.git
-   cd ToDoListApp
-   npm install
-   npm install react-router-dom
-   npm start
+ - git clone https://github.com/Vipinm8924/ToDoListApp.git
+ - cd ToDoListApp
+ - npm install
+ - npm install react-router-dom
+ - npm start
